@@ -12,7 +12,7 @@ B.Tech CSE (AI/ML) student documenting my machine learning learning path.
 - [x] Day 7 — Matplotlib
 - [X] Day 8 — Seaborn
 - [x] Day 9 — EDA structure
-- [ ] Day 10 — Project 1 complete
+- [x] Day 10 — Project 1 complete
 - [ ] Day 11 — Pivot tables
 - [ ] Day 12 — Statistics
 - [ ] Day 13 — First ML model
