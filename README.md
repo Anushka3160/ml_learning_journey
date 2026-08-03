@@ -13,8 +13,8 @@ B.Tech CSE (AI/ML) student documenting my machine learning learning path.
 - [X] Day 8 — Seaborn
 - [x] Day 9 — EDA structure
 - [x] Day 10 — Project 1 complete
-- [ ] Day 11 — Pivot tables
-- [ ] Day 12 — Statistics
+- [x] Day 11 — Pivot tables
+- [x] Day 12 — Statistics
 - [ ] Day 13 — First ML model
 
 ## Stack
