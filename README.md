@@ -15,7 +15,7 @@ B.Tech CSE (AI/ML) student documenting my machine learning learning path.
 - [x] Day 10 — Project 1 complete
 - [x] Day 11 — Pivot tables
 - [x] Day 12 — Statistics
-- [ ] Day 13 — First ML model
+- [x] Day 13 — First ML model
 
 ## Stack
 Python · Pandas · NumPy · Matplotlib · Seaborn · scikit-learn
